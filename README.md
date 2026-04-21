@@ -1,4 +1,4 @@
-\# Java Combo Verifier
+# Java Combo Verifier
 
 
 
@@ -6,21 +6,21 @@ Programa desenvolvido em Java para validar a contratação de combos de serviço
 
 
 
-\## 🚀 Funcionalidade
+## 🚀 Funcionalidade
 
 O sistema recebe uma lista de serviços contratados e verifica se o cliente possui o \*\*Combo Completo\*\*, que consiste em:
 
-\- Móvel
+- Móvel
 
-\- Banda Larga
+- Banda Larga
 
-\- TV
+- TV
 
 
 
-\## 💻 Tecnologias
+## 💻 Tecnologias
 
-\- Java
+- Java
 
-\- Git \& GitHub
+- Git \& GitHub
 
